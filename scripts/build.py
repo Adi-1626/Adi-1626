@@ -86,8 +86,9 @@ for repo, title, tag, link in FEATURED:
     live = n30 > 0
     for name, c in THEMES.items():
         lines = "".join(f'<text x="28" y="{86+i*22}" font-size="14.5" fill="{c["muted"]}" style="{SANS}">{esc(l)}</text>' for i, l in enumerate(wrap(tag, 58)[:2]))
-        badge = (f'<rect x="{560-150}" y="26" width="122" height="24" rx="12" fill="#22c55e" fill-opacity=".12"/><circle cx="{560-136}" cy="38" r="3.5" fill="#22c55e" class="p"/>'
-                 f'<text x="{560-126}" y="42" font-size="11.5" fill="#22c55e" style="{MONO}">{n30} commit{"s" if n30 != 1 else ""} · 30d</text>') if live else ""
+        lbl = f'{n30} commit{"s" if n30 != 1 else ""} · 30d'; bw = len(lbl) * 7.1 + 34; bx = 532 - bw
+        badge = (f'<rect x="{bx:.0f}" y="26" width="{bw:.0f}" height="24" rx="12" fill="#22c55e" fill-opacity=".12"/><circle cx="{bx+14:.0f}" cy="38" r="3.5" fill="#22c55e" class="p"/>'
+                 f'<text x="{bx+24:.0f}" y="42" font-size="11.5" fill="#22c55e" style="{MONO}">{lbl}</text>') if live else ""
         svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180">
 <style>.p{{animation:p 2.4s ease-in-out infinite}}@keyframes p{{50%{{opacity:.25}}}}</style>
 <rect x=".5" y=".5" width="559" height="179" rx="16" fill="{c['card']}" stroke="{c['border']}"/>
