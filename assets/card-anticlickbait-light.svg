@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180">
+<style>.p{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.25}}</style>
+<rect x=".5" y=".5" width="559" height="179" rx="16" fill="#ffffff" stroke="#e4e6eb"/>
+<text x="28" y="48" font-size="21" font-weight="650" fill="#0b0d12" letter-spacing="-.4" style="font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Clickbait Clarifier</text>
+<rect x="410" y="26" width="122" height="24" rx="12" fill="#22c55e" fill-opacity=".12"/><circle cx="424" cy="38" r="3.5" fill="#22c55e" class="p"/><text x="434" y="42" font-size="11.5" fill="#22c55e" style="font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,monospace">1 commit · 30d</text><text x="28" y="86" font-size="14.5" fill="#5b616b" style="font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Flags misleading YouTube videos with an ML and LLM</text><text x="28" y="108" font-size="14.5" fill="#5b616b" style="font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">ensemble, right in the browser.</text>
+<line x1="28" y1="136" x2="532" y2="136" stroke="#e4e6eb"/>
+<circle cx="34" cy="157" r="5" fill="#3572A5"/><text x="46" y="161" font-size="12.5" fill="#5b616b" style="font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,monospace">Python</text>
+
+<text x="532" y="161" font-size="12.5" fill="#9aa0a8" text-anchor="end" style="font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,monospace">updated 1 hour ago</text>
+</svg>

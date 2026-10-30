@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56">
-<rect x="1" y="6" width="998" height="44" rx="14" fill="#0f172a" stroke="#334155"/>
-<text x="24" y="34" font-size="14" fill="#e2e8f0" font-weight="700" style="font-family:-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">◆ Start</text>
-<g style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12.5" fill="#94a3b8"><text x="110" y="34">▣ Terminal</text><text x="220" y="34">▣ Haven</text><text x="310" y="34">▣ Projects.app</text><text x="440" y="34">▣ Skills.app</text></g>
-<circle cx="760" cy="28" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
-<text x="772" y="33" font-size="12.5" fill="#94a3b8" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace">open to work</text>
-<text x="976" y="33" font-size="12.5" fill="#e2e8f0" text-anchor="end" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace">Pune · IST</text>
-</svg>
