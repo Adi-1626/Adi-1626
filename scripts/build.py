@@ -123,12 +123,13 @@ for e in events:
         acts.append(f"Created **[{repo}](https://github.com/{USER}/{repo})** · {ago(e['created_at'])}")
     if len(acts) >= 5: break
 activity = "\n".join(f"- {a}" for a in acts) or "- Quiet week. Probably reading docs."
+VER = NOW.strftime("%Y%m%d%H%M")
 synced = NOW.astimezone(IST).strftime("%d %b %Y, %H:%M IST")
 
 # ---------- README ----------
 def pic(base, alt, href, width):
-    return (f'<a href="{href}"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/{base}-dark.svg">'
-            f'<img src="assets/{base}-light.svg" width="{width}" alt="{esc(alt)}"></picture></a>')
+    return (f'<a href="{href}"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/{base}-dark.svg?v={VER}">'
+            f'<img src="assets/{base}-light.svg?v={VER}" width="{width}" alt="{esc(alt)}"></picture></a>')
 cards = [pic(f"card-{r.lower()}", t, l, "49%") for r, t, _, l in FEATURED]
 readme = f'''{pic("header", "Aditya Gawali — Full Stack & AI Engineer", "https://haven-landing.pages.dev/", "100%")}
 
