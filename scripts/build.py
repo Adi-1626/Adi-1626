@@ -58,7 +58,7 @@ def commits30(repo):
 # ---------- header ----------
 pub = [r for r in repos.values() if not r.get("private") and not r.get("fork") and r.get("pushed_at") and r["name"] != USER]
 top = max(pub, key=lambda r: r["pushed_at"], default=None)
-status = f"Shipping {top['name']} · last push {ago(top['pushed_at'])}" if top else "Building in public"
+status = f"Active now · last commit {ago(top['pushed_at'])}" if top else "Open to opportunities"
 for name, c in THEMES.items():
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
 <style>.p{{animation:p 2.4s ease-in-out infinite}}@keyframes p{{50%{{opacity:.25}}}}
