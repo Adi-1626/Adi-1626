@@ -1,4 +1,4 @@
-<a href="https://haven-landing.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=202611080559"><img src="assets/header-light.svg?v=202611080559" width="100%" alt="Aditya Gawali — Full Stack &amp; AI Engineer"></picture></a>
+<a href="https://haven-landing.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=202611081324"><img src="assets/header-light.svg?v=202611081324" width="100%" alt="Aditya Gawali — Full Stack &amp; AI Engineer"></picture></a>
 
 <p>
 <a href="https://portfolio-nu-cyan-5mpw4wfqg1.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
@@ -11,8 +11,8 @@ Full Stack &amp; AI Intern at **Sectfit Healthtech**, working across frontend, b
 
 ### Selected work
 
-<a href="https://haven-landing.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-haven-dark.svg?v=202611080559"><img src="assets/card-haven-light.svg?v=202611080559" width="49%" alt="Haven"></picture></a>&nbsp;<a href="https://github.com/Adi-1626/OmniChat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-omnichat-dark.svg?v=202611080559"><img src="assets/card-omnichat-light.svg?v=202611080559" width="49%" alt="OmniChat"></picture></a>
-<a href="https://github.com/Adi-1626/AntiClickbait"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-anticlickbait-dark.svg?v=202611080559"><img src="assets/card-anticlickbait-light.svg?v=202611080559" width="49%" alt="Clickbait Clarifier"></picture></a>&nbsp;<a href="https://github.com/Adi-1626/VendorVault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vendorvault-dark.svg?v=202611080559"><img src="assets/card-vendorvault-light.svg?v=202611080559" width="49%" alt="VendorVault"></picture></a>
+<a href="https://haven-landing.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-haven-dark.svg?v=202611081324"><img src="assets/card-haven-light.svg?v=202611081324" width="49%" alt="Haven"></picture></a>&nbsp;<a href="https://github.com/Adi-1626/OmniChat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-omnichat-dark.svg?v=202611081324"><img src="assets/card-omnichat-light.svg?v=202611081324" width="49%" alt="OmniChat"></picture></a>
+<a href="https://github.com/Adi-1626/AntiClickbait"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-anticlickbait-dark.svg?v=202611081324"><img src="assets/card-anticlickbait-light.svg?v=202611081324" width="49%" alt="Clickbait Clarifier"></picture></a>&nbsp;<a href="https://github.com/Adi-1626/VendorVault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vendorvault-dark.svg?v=202611081324"><img src="assets/card-vendorvault-light.svg?v=202611081324" width="49%" alt="VendorVault"></picture></a>
 
 <details>
 <summary><b>Haven, in one screen</b></summary>
@@ -32,4 +32,4 @@ Full Stack &amp; AI Intern at **Sectfit Healthtech**, working across frontend, b
 
 `TypeScript` `Python` `Node.js` `React` `Next.js` `WebRTC` `Supabase` `AWS` `Docker` `Cloudflare` `LLM integrations` `scikit-learn`
 
-<sub>Cards and activity refresh from GitHub every 6 hours · last synced 08 Nov 2026, 11:29 IST</sub>
+<sub>Cards and activity refresh from GitHub every 6 hours · last synced 08 Nov 2026, 18:54 IST</sub>
